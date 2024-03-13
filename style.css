@@ -1,0 +1,20 @@
+p{
+    color:green;
+}
+.perspective-questions{
+    color:black;
+    font-style:italic;
+}
+body{
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+h1{
+    font-size: 22px;
+}
+.name{
+    font-size: 30px;
+}
